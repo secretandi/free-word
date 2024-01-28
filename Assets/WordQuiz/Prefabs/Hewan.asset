@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Hewan
+  m_EditorClassIdentifier: Assembly-CSharp::QuizDataScriotable
+  questions:
+  - questionImage: {fileID: 21300000, guid: 51a4c89da483baf4ba8a103d93ca3653, type: 3}
+    answer: Ayam
+  - questionImage: {fileID: 21300000, guid: 3dd500e276cfc3d47a2a216ec0584cb8, type: 3}
+    answer: Sapi
+  - questionImage: {fileID: 21300000, guid: 8ce0dac6ddfefe848b9da6582d549bdc, type: 3}
+    answer: Kelinci
